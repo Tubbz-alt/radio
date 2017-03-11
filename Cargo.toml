@@ -1,0 +1,7 @@
+[package]
+name = "sdr"
+version = "0.1.0"
+authors = ["klangner <klangner@gmail.com>"]
+
+[dependencies]
+rtlsdr = "0.1.4"
