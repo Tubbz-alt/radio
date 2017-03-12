@@ -1,6 +1,6 @@
-# Software Defined Radio sandbox
+# SDR Radio
 
-Sandbox for testing ideas related to SDR Rust implementation.
+Listen to the radio stations using SDR.
  
   
 # License
