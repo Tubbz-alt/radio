@@ -1,5 +1,5 @@
 [package]
-name = "sdr"
+name = "radio"
 version = "0.1.0"
 authors = ["klangner <klangner@gmail.com>"]
 
