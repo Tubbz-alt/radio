@@ -1,4 +1,6 @@
 extern crate audrey;
+extern crate cpal;
+extern crate futures;
 extern crate rtlsdr;
 extern crate dsp;
 
@@ -8,6 +10,6 @@ mod drivers;
 
 fn main() {
     let samples = audio::load("data/sine_440hz.wav");
-    println!("Sample count: {}", samples.len());
+    audio::play(&samples);
 //    drivers::test_rtlsdr();
 }

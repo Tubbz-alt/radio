@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["klangner <klangner@gmail.com>"]
 
 [dependencies]
+dsp = { git = "https://github.com/klangner/dsp" }
 rtlsdr = "0.1.4"
 audrey = "0.1.0"
-dsp = { git = "https://github.com/klangner/dsp" }
+cpal = "0.4.4"
+futures = "0.1.11"
