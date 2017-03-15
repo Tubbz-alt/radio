@@ -5,8 +5,8 @@ Listen to the radio stations using SDR.
 
 # Features
 
+  * [x] Load data from wav file
   * [ ] Play sound using audio
-  * [ ] Load data from
   * [ ] AM Demodulation
  
   
