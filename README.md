@@ -1,6 +1,13 @@
 # SDR Radio
 
 Listen to the radio stations using SDR.
+
+
+# Features
+
+  * [ ] Play sound using audio
+  * [ ] Load data from
+  * [ ] AM Demodulation
  
   
 # License
